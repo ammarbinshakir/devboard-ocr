@@ -16,7 +16,7 @@ A lightweight, production-ready FastAPI microservice that extracts **TODOs**, **
   - `Fix login bug`
   - `Review PR #42`
   - `Deadline: 2025-07-22`
-- ⚙️ Powered by [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
+- ⚙️ Powered by: https://github.com/tesseract-ocr/tesseract
 - 🔍 Clean and regex-based extraction logic
 - 🦾 Built with FastAPI and async IO
 - 💼 Great for portfolio/demo projects
